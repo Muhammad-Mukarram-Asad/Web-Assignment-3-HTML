@@ -1,2 +1,2 @@
 # Web-Assignment-3-HTML
- nt-1/
+https://muhammad-mukarram-asad.github.io/Web-Assignment-3-HTML/
